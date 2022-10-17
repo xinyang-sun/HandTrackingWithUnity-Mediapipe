@@ -3,6 +3,4 @@
 <br>
 Hand tracking procedure. Developed with Unity, Python, and Mediapipe.
 <br>
-Python part code
-<br>
 Code of Python section
