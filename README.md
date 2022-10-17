@@ -3,4 +3,4 @@
 <br>
 Python 分支为 Python的源码
 <br>
-The master branch is Python source code
+The Python branch is Python source code
