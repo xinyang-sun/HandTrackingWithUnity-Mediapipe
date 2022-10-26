@@ -6,3 +6,4 @@ Hand tracking procedure. Developed with Unity, Python, and Mediapipe.
 在分支中查看代码
 <br>
 View code in branch
+![image](https://github.com/xinyang-sun/HandTrackingWithUnity-Mediapipe/blob/master/GIF/1.gif)
