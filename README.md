@@ -10,14 +10,20 @@ View code in branch
 <br>
 <br>
 使用指南：
+<br>
 下载最新压缩包
+<br>
 解压后，更改文件夹名称为：model test 2 hand track
+<br>
 详细演示视频：https://www.bilibili.com/video/BV1BP4y1S7Te/?spm_id_from=333.999.0.0&vd_source=eb381ee95f9cb09788a1de67136cb9af
 <br>
 <br>
 User's Guide:
+<br>
 Download the latest zip
+<br>
 After decompression, change the folder name to: model test 2 hand track
+<br>
 Detailed demonstration video: https://www.bilibili.com/video/BV1BP4y1S7Te/?spm_id_from=333.999.0.0&vd_source=eb381ee95f9cb09788a1de67136cb9af
 <br>
 <br>
