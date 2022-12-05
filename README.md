@@ -3,7 +3,7 @@
 <br>
 Hand tracking procedure. Developed with Unity, Python, and Mediapipe.
 <br>
-在分支中查看代码
+请点开分支，在分支中选择需要的源代码进行下载。（左上角的main就是分支，点开可以看到unity，python的源文件）
 <br>
 View code in branch
 <br>
