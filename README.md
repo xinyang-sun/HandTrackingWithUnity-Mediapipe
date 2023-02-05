@@ -33,3 +33,11 @@ Project Function GIF Show
 ![image](https://github.com/xinyang-sun/HandTrackingWithUnity-Mediapipe/blob/master/GIF/2.gif)
 <br>
 ![image](https://github.com/xinyang-sun/HandTrackingWithUnity-Mediapipe/blob/master/GIF/3.gif)
+<br>
+<br>
+<br>
+Reference
+<br>
+CVZone：https://github.com/cvzone/cvzone/issues
+<br>
+Unity Hand Tracking with Mediapipe: https://github.com/TesseraktZero/UnityHandTrackingWithMediapipe
